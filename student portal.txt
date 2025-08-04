@@ -1,0 +1,4 @@
+std name: Jyothika SARAGADAM
+suc: 2367250376
+corse: BSc(data science)
+gender: female
